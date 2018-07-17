@@ -12,6 +12,7 @@ end
 
 get '/lollipop' do
   "I like icecream!"
+  "I like pizza!"
 end
 
 end
